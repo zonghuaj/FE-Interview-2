@@ -3954,7 +3954,7 @@ queue.empty(); // 返回 false
 
 分类：工程化
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1114)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1115)
 
 <br />
 
@@ -3962,7 +3962,7 @@ queue.empty(); // 返回 false
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1115)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1116)
 
 <br />
 
@@ -3970,7 +3970,7 @@ queue.empty(); // 返回 false
 
 分类：网络&安全
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1116)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1117)
 
 <br />
 
@@ -3986,7 +3986,7 @@ foo();
 
 分类：JavaScript
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1117)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1118)
 
 <br />
 
@@ -3996,7 +3996,7 @@ foo();
 
 分类：JavaScript
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1118)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1119)
 
 <br />
 
@@ -4004,7 +4004,7 @@ foo();
 
 分类：JavaScript
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1119)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1120)
 
 <br />
 
@@ -4012,7 +4012,7 @@ foo();
 
 分类：JavaScript
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1120)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1122)
 
 <br />
 
@@ -4020,7 +4020,7 @@ foo();
 
 分类：网络&安全
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1121)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)
 
 <br />
 
@@ -4028,7 +4028,7 @@ foo();
 
 分类：JavaScript
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1122)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1125)
 
 <br />
 
@@ -4038,7 +4038,7 @@ foo();
 
 公司：头条
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1123)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1126)
 
 <br />
 
@@ -4048,7 +4048,7 @@ foo();
 
 公司：腾讯
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1127)
 
 <br />
 
@@ -4056,6 +4056,659 @@ foo();
 
 分类：网络&安全
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1125)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1128)
+
+<br />
+
+### Day305:说一下 Taro 编译的原理？
+
+分类：其它
+
+公司：阿里
+
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1129)
+
+<br />
+
+### Day306:Vue2.x 和 Vue3.x 渲染器的 diff 算法分别说一下？
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1130)
+
+<br />
+
+### Day307:如果一个页面突然出现了一段广告，可能是什么原因，怎么解决?
+
+分类：网络&安全
+
+公司：腾讯
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1131)
+
+<br />
+
+### Day308:说下你对 ESLint 的了解？ 如何使用？它的工作原理？
+
+分类：工程化
+
+公司：美团 
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1132)
+
+<br />
+
+### Day309:说下你对 Node.js 支持高并发的理解？
+
+分类：Node
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1133)
+
+<br />
+
+### Day310:了解 WebSocket 吗？WebSocket 是如何进行握手的？
+
+公司：腾讯
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1134)
+
+<br />
+
+### Day311:介绍下 npm 模块安装机制？输入 npm install 命令敲下回车后它的一个执行流程是怎样的？
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1135)
+
+<br />
+
+### Day312:接口怎么防刷
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1136)
+
+<br />
+
+### Day313:说下你对前端工程化的理解
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1138)
+
+<br />
+
+### Day314:ES6 代码转成 ES5 代码的实现思路是什么？大致说一下 babel 原理?
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1139)
+
+<br />
+
+### Day315:请说说你对 Sparkplug 的理解？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1140)
+
+<br />
+
+### Day316:说一下实现骨架屏的方案？具体思路?
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1141)
+
+<br />
+
+### Day317:完成一个转换函数，将数字转换成对应的大写字母，满足下面的对应关系
+
+```js
+// 1 => A
+// 2 => B
+// 3 => C
+// ...
+// 26 => Z
+// 27 => AA
+// 28 => AB
+// ...
+// 52 => AZ
+// 53 => BA
+// 54 => BB
+
+// 实现下方函数
+function convert(){
+    // todo
+}
+// 测试代码
+const output1 = convert(1);
+console.log(output1); //A
+const output2 = convert(26);
+console.log(output2);// Z
+```
+
+公司：腾讯微视
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1142)
+
+<br />
+
+### Day318:WebSocket 如何断开重连
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1143)
+
+<br />
+
+### Day319:为什么说利用多个域名来存储网站资源会更有效？
+
+分类：网络&安全
+
+公司：字节跳动
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1145)
+
+<br />
+
+### Day320:文件上传如何实现？除了 input 还有哪些别的方法？
+
+公司：字节跳动
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1146)
+
+<br />
+
+### Day321:请设计一个方案：有 a、b、c 三个 npm 插件，它们会经常更新，在前端项目 npm run start 启动后，要求 a、b、c 三个 npm 插件自动更新到最新版本
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1147)
+
+<br />
+
+### Day322:手写发布订阅模式
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1148)
+
+<br />
+
+### Day323:大数计算如何实现
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1149)
+
+<br />
+
+### Day324:说一下网络通信中引入滑动窗口的作用，它的机制原理是怎样的？
+
+公司：淘宝
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1150)
+
+<br />
+
+### Day325:请求在客户端报 413 是什么错误，怎么解决？
+
+公司：淘宝
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1152)
+
+<br />
+
+### Day326:请用 ES5 模拟实现 Number 的 isInteger 方法
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1154)
+
+<br />
+
+### Day327:谈一下微信小程序的架构以及为什么要使用双线程？
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1155)
+
+<br />
+
+### Day328:给定一个数组，按找到每个元素右侧第一个比它大的数字，没有的话返回-1 规则返回一个数组
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1156)
+
+<br />
+
+### Day329:说一说 promise，有几个状态，通过 catch 捕获到 reject 之后，在 catch 后面还能继续执行 then 方法嘛，如果能执行执行的是第几个回调函数?
+
+公司：伴鱼、喜马拉雅
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1157)
+
+<br />
+
+
+### Day330:为什么 React useState 要使用数组而不是对象?
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1160)
+
+<br />
+
+
+### Day331:说一下对称加密和非对称加密的区别和用处？
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1161)
+
+<br />
+
+
+### Day332:手写代码实现`kuai-shou-front-end=>KuaiShouFrontEnd`
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1162)
+
+<br />
+
+### Day333:用尽量短的代码实现一个 array 的链式操作，将数组中的大于 10 的值进行一个累加
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1163)
+
+<br />
+
+### Day334:按要求实现 rightView 函数
+
+```js
+function TreeNode(val){
+  this.val = val;
+  this.left = null;
+  this.right = null;
+}
+function rightView(root){
+  // 请你实现
+}
+// => [1,4,3]
+     1      => 1
+   2   4    => 4
+ 7   3      => 3
+```
+
+公司：头条
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1164)
+
+<br />
+
+### Day335：动手实现一下 Node utils 模块中的 Promisify 函数
+
+分类：Node
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1165)
+
+<br />
+
+### Day336:说一下 jQuery ajax、axios、fetch 的区别
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1166)
+
+<br />
+
+### Day337:输入一个日期,返回几秒前、几小时前、几天前、几月前
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1167)
+
+<br />
+
+### Day338:说一下你对函数式编程的理解
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1168)
+
+<br />
+
+
+### Day339：说出前端框架设计模式(MVVM 或 MVP 又或 MVC)的含义以及原理
+
+公司：玄武科技
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1169)
+
+<br />
+
+### Day340:动手实现一个简单的 mvvm 模型
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1170)
+
+<br />
+
+### Day341:说下 LRU 算法的原理并手写实现？一般有哪些优化方式？
+
+公司：字节跳动、京东
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1171)
+
+<br />
+
+### Day342:有没有搭建过 CI/CD？说下 CI/CD 搭建的流程
+
+公司：爱奇艺
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1172)
+
+<br />
+
+### Day343:说一下 TypeScript 中 Partial、Pick、Record 作用?
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1174)
+
+<br />
+
+### Day344:封装公共组件需要注意什么？
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1175)
+
+<br />
+
+### Day345:Prerender 预渲染是什么原理？预渲染 prerender-spa-plugin 能详细讲讲吗？
+
+公司：盒马
+
+分类：Vue、React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1176)
+
+<br />
+
+### Day346: Node 中怎么开启一个子线程
+
+分类：Node
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1177)
+
+<br />
+
+### Day347:说一下小程序页面的通讯方式
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1178)
+
+<br />
+
+### Day348:class 的继承和 prototype 继承 是完全一样的吗？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1179)
+
+<br />
+
+### Day349:说一下 vite 和 webpack 对比，为什么 vite 在 dev 模式下运行速度快很多？
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1180)
+
+<br />
+
+### Day350:Reflect.ownKeys 与 Object.keys 的区别
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1181)
+
+<br />
+
+### Day351:说一下对事件流的理解,如果 addEventListener 的第三个参数设置为 true 会发生什么?
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1182)
+
+<br />
+
+### Day352：React Hooks 的 useState 相对于有状态组件 state 区别是什么？
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1183)
+
+<br />
+
+### Day353:React Hooks 解决了什么问题？其原理是什么(以 useEffect 为例)？useMemo 和 useCallback 差别？
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1184)
+
+<br />
+
+### Day354:模拟实现 Symbol
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1185)
+
+<br />
+
+### Day355:下面代码在 vue 中输出什么？为什么?
+
+```js
+for (let i = 0; i < 10; i++) {
+  this.a = i;
+  this.$nextTick(() => {
+    console.log(this.a);
+  });
+}
+```
+
+公司：头条
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1186)
+
+<br />
+
+### Day356:说说 Context 有哪些属性？怎么使用 Context 开发组件？除了实例的属性可以获取 Context 外哪些地方还能直接获取 Context ？为什么 React 并不推荐我们优先考虑使用 Context？
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1187)
+
+<br />
+
+### Day357:说一下你觉得的 vue 开发规范有哪些？
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1188)
+
+<br />
+
+### Day358:说一下你对 vue keep-alive 的理解？以及使用过程需要注意的地方？
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1190)
+
+<br />
+
+### Day359:你知道 Vue 的模板语法用的是哪个 web 模板引擎的吗？说说你对这模板引擎的理解?
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1191)
+
+<br />
+
+### Day360:Vue2.x 为什么要求组件模板只能有一个根元素？
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1192)
+
+<br />
+
+### Day361:Vue 切换路由时，需要保存草稿的功能，怎么实现？
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1193)
+
+<br />
+
+### Day362:说一下 Vue 中 EventBus 的使用？在使用过程中有没有遇到重复触发的问题？如何解决的？
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1195)
+
+<br />
+
+### Day363:举例说明 React 的插槽有哪些运用场景？你有用过 React 的插槽(Portals)吗？怎么用？
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1196)
+
+<br />
+
+### Day364：为什么说 React 中 props 是只读的？
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1197)
+
+<br />
+
+### Day365:如何解决 Vue 打包 vendor 过大的问题？Webpack 打包 vue 速度慢怎么办？
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1199)
+
+<br />
+
+### Day366:什么是 CSP?
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1200)
+
+<br />
+
+### Day367:说下 URL 和 URI 的区别？
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1201)
+
+<br />
+
+### Day368:说一下你对 Get 请求传参长度限制的理解？
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1202)
+
+<br />
+
+### Day369:说下你对 Reflect 的理解？为什么会有 Reflect 的出现？Proxy 也简单的说一下？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1203)
+
+<br />
+
+### Day370:为什么使用 setTimeout 实现 setInterval？怎么模拟？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1204)
+
+<br />
+
+### Day371:使用 Symbol 函数都有哪些要注意的点？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1205)
+
+<br />
+
+### Day372:说一下你对 Get 和 Post 请求在缓存方面理解
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1206)
+
+<br />
+
+### Day373：说下 Node 中 require 模块引入的查找方式？
+
+分类：Node
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1207)
+
+<br />
+
+### Day374:说一下开发中常用的几种 Content-Type ？
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1208)
+
+<br />
+
+### Day375:setTimeout/setInterval 实现倒计时如何解决时间偏差的问题?
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1209)
 
 <br />

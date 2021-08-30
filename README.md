@@ -45,11 +45,10 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day304:什么情况下会触发 options 请求
+### Day375:setTimeout/setInterval 实现倒计时如何解决时间偏差的问题?
 
-公司：腾讯
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1209)**
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1125)**
 
 <br />
 
@@ -59,7 +58,7 @@
 
 <br />
 
-## 📱 手机刷题(附带详细答案) 
+## 📱 手机刷题(附带详细答案)
 
 > 二维码加载失败请点击 [入口](http://img-static.yidengxuetang.com/wxapp/issue-img/wxqr-github.png)
 
@@ -67,26 +66,29 @@
 
 ## ⏱️ 最近更新
 
-- [Day303:什么时候用 TCP，什么时候适合 UDP？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)
-- [Day302:实现 10 进制转换为 36 进制](https://github.com/lgwebdream/FE-Interview-Planet/issues/1123)
-- [Day301:鼠标滚动的时候，会触发很多次事件，你是如何解决的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1122)
-- [Day300 Get 请求传参长度存在限制，是 HTTP 协议限制的吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1121)
-- [Day299:说一下什么是功能检测（feature detection）、功能推断（feature inference）、UA 字符串？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1120)
-- [Day298:手写一个 Ajax](https://github.com/lgwebdream/FE-Interview-Planet/issues/1119)
-- [Day297:说下 Node 文件查找的优先级以及 Require 方法的文件查找策略](https://github.com/lgwebdream/FE-Interview-Planet/issues/1118)
-- [Day296:下面代码是否会导致堆栈溢出错误](https://github.com/lgwebdream/FE-Interview-Planet/issues/1117)
-- [Day295:详细描述一个 http 请求从发起请求到收到响应的全部过程(越细越好)](https://github.com/lgwebdream/FE-Interview-Planet/issues/1116)
-- [Day294：说一下进程和线程的区别？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1115)
-- [Day293:说下在项目开发你是怎么组织 CSS 的？（Webpack）](https://github.com/lgwebdream/FE-Interview-Planet/issues/1114)
-- [Day292:如何设计状态树](https://github.com/lgwebdream/FE-Interview-Planet/issues/1113)
-- [Day291:说一下 JavaScript 的执行流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1112)
-- [Day290:node 如何做错误监控？如何生成日志？日志等级如何划分？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1111)
-- [Day289:项目中如何应用数据结构?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1110)
-- [Day288:给定两个整数 n 和 k，返回 1 ... n 中所有可能的 k 个数的组合。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1109)
-- [Day287:给定一组不含重复元素的整数数组 nums，返回该数组所有可能的子集（幂集）。说明：解集不能包含重复的子集。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1108)
-- [Day286：给定一个没有重复数字的序列，返回其所有可能的全排列。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1107)
-- [Day285:给定一个数组 nums 和滑动窗口的大小 k，请找出所有滑动窗口里的最大值。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1106)
-- [Day284:如何用栈实现一个队列](https://github.com/lgwebdream/FE-Interview-Planet/issues/1105)
+- [Day374:说一下开发中常用的几种 Content-Type ？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1208)
+- [Day373：说下 Node 中 require 模块引入的查找方式？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1207)
+- [Day372:说一下你对 Get 和 Post 请求在缓存方面理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1206)
+- [Day371:使用 Symbol 函数都有哪些要注意的点？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1205)
+- [Day370:为什么使用 setTimeout 实现 setInterval？怎么模拟？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1204)
+- [Day369:说下你对 Reflect 的理解？为什么会有 Reflect 的出现？Proxy 也简单的说一下？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1203)
+- [Day368:说一下你对 Get 请求传参长度限制的理解？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1202)
+- [Day367:说下 URL 和 URI 的区别？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1201)
+- [Day366:什么是 CSP?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1200)
+- [Day365:如何解决 Vue 打包 vendor 过大的问题？Webpack 打包 vue 速度慢怎么办？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1199)
+- [Day364：为什么说 React 中 props 是只读的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1197)
+- [Day363:举例说明 React 的插槽有哪些运用场景？你有用过 React 的插槽(Portals)吗？怎么用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1196)
+- [Day362:说一下 Vue 中 EventBus 的使用？在使用过程中有没有遇到重复触发的问题？如何解决的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1195)
+- [Day361:Vue 切换路由时，需要保存草稿的功能，怎么实现？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1193)
+- [Day360:Vue2.x 为什么要求组件模板只能有一个根元素？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1192)
+- [Day359:你知道 Vue 的模板语法用的是哪个 web 模板引擎的吗？说说你对这模板引擎的理解?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1191)
+- [Day358:说一下你对 vue keep-alive 的理解？以及使用过程需要注意的地方？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1190)
+- [Day357:说一下你觉得的 vue 开发规范有哪些？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1188)
+- [Day356:说说 Context 有哪些属性？怎么使用 Context 开发组件？除了实例的属性可以获取 Context 外哪些地方还能直接获取 Context ？为什么 React 并不推荐我们优先考虑使用 Context？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1187)
+- [Day355:下面代码在 vue 中输出什么？为什么?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1186)
+- [Day354:模拟实现 Symbol](https://github.com/lgwebdream/FE-Interview-Planet/issues/1185)
+- [Day353:React Hooks 解决了什么问题？其原理是什么(以 useEffect 为例)？useMemo 和 useCallback 差别？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1184)
+- [Day352：React Hooks 的 useState 相对于有状态组件 state 区别是什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1183)
 
 ## 🏠 前端面试 Family
 
